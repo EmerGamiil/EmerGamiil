@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EmerGamiil
+- 👋 Hi, I’m @EmerGamiil, nice to meet you!
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning HTML/CSS and JavaScript.
 - 💞️ I’m looking to collaborate on ...
